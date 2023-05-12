@@ -1,1 +1,1 @@
-# battleship
+This project was created by following an instructor through a paid bootcamp course. The project's concepts and original code structure are not original and were not created by me. However, I did debug and refactor the code on my own to scrub user input data, improve console UI experience, and fix any bugs that were intentionally or unintentionally introduced by the instructor. So the project does contain some original code or code refactoring that I did on my own without guidance.
